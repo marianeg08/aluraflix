@@ -1,4 +1,14 @@
 body{
     color:white;
-    background:blue;
+    background:rgb(255, 0, 255);
+}
+header {
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(7, 1, 6);
+}
+
+section{
+    background:rgb(221 160 199);
 }
