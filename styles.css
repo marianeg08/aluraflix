@@ -1,6 +1,7 @@
 body{
     color:white;
     background:rgb(255, 0, 255);
+    font-family: "Sevilhana", cursive;
 }
 header {
     border-bottom: solid 2px black;
@@ -11,4 +12,12 @@ header {
 
 section{
     background:rgb(221 160 199);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
